@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 1ba89b96e5a8d44afb0da9de821e74e4
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 5940314449077182799
+    second: Armature|ChangePosition
+  - first:
+      74: 9216494916782524912
+    second: Armature|Cube.007|Cube.002|Cube.002Action|Cube.002|Cube.002Action
+  - first:
+      74: 5449073193131188545
+    second: Armature|CubeAction
+  - first:
+      74: -182565066987668988
+    second: Armature|LookAtPhone
+  - first:
+      74: 3532749270543108826
+    second: Armature|LookLeft
+  - first:
+      74: -3325281317796851217
+    second: Armature|LookRight
+  - first:
+      74: 267551298009643804
+    second: Armature|FootKick
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ChangePosition
+      takeName: Armature|ChangePosition
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|LookAtPhone
+      takeName: Armature|LookAtPhone
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|LookLeft
+      takeName: Armature|LookLeft
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|LookRight
+      takeName: Armature|LookRight
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 0
+      - path: Armature/HandIK.L
+        weight: 0
+      - path: Armature/HandIK.L/HandIK.L_end
+        weight: 0
+      - path: Armature/HandIK.R
+        weight: 0
+      - path: Armature/HandIK.R/HandIK.R_end
+        weight: 0
+      - path: Armature/Hip
+        weight: 0
+      - path: Armature/Hip/Back001
+        weight: 1
+      - path: Armature/Hip/Back001/Back002
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Neck
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Neck/Head
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Neck/Head/Head_end
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Index.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Index.L/IndexDigit001.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Index.L/IndexDigit001.L/IndexDigit002.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Index.L/IndexDigit001.L/IndexDigit002.L/IndexDigit003.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Index.L/IndexDigit001.L/IndexDigit002.L/IndexDigit003.L/IndexDigit003.L_end
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Middle.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Middle.L/MiddleDigit001.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Middle.L/MiddleDigit001.L/MiddleDigit002.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Middle.L/MiddleDigit001.L/MiddleDigit002.L/MiddleDigit003.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Middle.L/MiddleDigit001.L/MiddleDigit002.L/MiddleDigit003.L/MiddleDigit003.L_end
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Pinky.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Pinky.L/PinkyDigit001.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Pinky.L/PinkyDigit001.L/PinkyDigit002.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Pinky.L/PinkyDigit001.L/PinkyDigit002.L/PinkyDigit003.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Pinky.L/PinkyDigit001.L/PinkyDigit002.L/PinkyDigit003.L/PinkyDigit003.L_end
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Ring.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Ring.L/RingDigit001.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Ring.L/RingDigit001.L/RingDigit002.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Ring.L/RingDigit001.L/RingDigit002.L/RingDigit003.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Ring.L/RingDigit001.L/RingDigit002.L/RingDigit003.L/RingDigit003.L_end
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Thumb.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Thumb.L/ThumbDigit001.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Thumb.L/ThumbDigit001.L/ThumbDigit002.L
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Thumb.L/ThumbDigit001.L/ThumbDigit002.L/ThumbDigit002.L_end
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Index.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Index.R/IndexDigit001.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Index.R/IndexDigit001.R/IndexDigit002.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Index.R/IndexDigit001.R/IndexDigit002.R/IndexDigit003.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Index.R/IndexDigit001.R/IndexDigit002.R/IndexDigit003.R/IndexDigit003.R_end
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Middle.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Middle.R/MiddleDigit001.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Middle.R/MiddleDigit001.R/MiddleDigit002.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Middle.R/MiddleDigit001.R/MiddleDigit002.R/MiddleDigit003.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Middle.R/MiddleDigit001.R/MiddleDigit002.R/MiddleDigit003.R/MiddleDigit003.R_end
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Pinky.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Pinky.R/PinkyDigit001.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Pinky.R/PinkyDigit001.R/PinkyDigit002.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Pinky.R/PinkyDigit001.R/PinkyDigit002.R/PinkyDigit003.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Pinky.R/PinkyDigit001.R/PinkyDigit002.R/PinkyDigit003.R/PinkyDigit003.R_end
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Ring.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Ring.R/RingDigit001.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Ring.R/RingDigit001.R/RingDigit002.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Ring.R/RingDigit001.R/RingDigit002.R/RingDigit003.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Ring.R/RingDigit001.R/RingDigit002.R/RingDigit003.R/RingDigit003.R_end
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Thumb.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Thumb.R/ThumbDigit001.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Thumb.R/ThumbDigit001.R/ThumbDigit002.R
+        weight: 0
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Thumb.R/ThumbDigit001.R/ThumbDigit002.R/ThumbDigit002.R_end
+        weight: 0
+      - path: Armature/Hip/Hip.L
+        weight: 0
+      - path: Armature/Hip/Hip.L/UpperLeg.L
+        weight: 0
+      - path: Armature/Hip/Hip.L/UpperLeg.L/LowerLeg.L
+        weight: 0
+      - path: Armature/Hip/Hip.L/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 0
+      - path: Armature/Hip/Hip.L/UpperLeg.L/LowerLeg.L/Foot.L/Foot.L_end
+        weight: 0
+      - path: Armature/Hip/Hip.R
+        weight: 0
+      - path: Armature/Hip/Hip.R/UpperLeg.R
+        weight: 0
+      - path: Armature/Hip/Hip.R/UpperLeg.R/LowerLeg.R
+        weight: 0
+      - path: Armature/Hip/Hip.R/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 0
+      - path: Armature/Hip/Hip.R/UpperLeg.R/LowerLeg.R/Foot.R/Foot.R_end
+        weight: 0
+      - path: Armature/Socket
+        weight: 0
+      - path: Armature/Socket/Socket_end
+        weight: 0
+      - path: Arms
+        weight: 0
+      - path: EyeBrows
+        weight: 0
+      - path: Eyes
+        weight: 0
+      - path: Legs
+        weight: 0
+      - path: Mouth
+        weight: 0
+      - path: Nose
+        weight: 0
+      - path: Pants
+        weight: 0
+      - path: Shirt
+        weight: 0
+      - path: Shoes
+        weight: 0
+      - path: Socks
+        weight: 0
+      - path: TorsoHead
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|FootKick
+      takeName: Armature|FootKick
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/HandIK.L
+        weight: 1
+      - path: Armature/HandIK.L/HandIK.L_end
+        weight: 1
+      - path: Armature/HandIK.R
+        weight: 1
+      - path: Armature/HandIK.R/HandIK.R_end
+        weight: 1
+      - path: Armature/Hip
+        weight: 1
+      - path: Armature/Hip/Back001
+        weight: 1
+      - path: Armature/Hip/Back001/Back002
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Neck
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Neck/Head
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Neck/Head/Head_end
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Index.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Index.L/IndexDigit001.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Index.L/IndexDigit001.L/IndexDigit002.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Index.L/IndexDigit001.L/IndexDigit002.L/IndexDigit003.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Index.L/IndexDigit001.L/IndexDigit002.L/IndexDigit003.L/IndexDigit003.L_end
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Middle.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Middle.L/MiddleDigit001.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Middle.L/MiddleDigit001.L/MiddleDigit002.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Middle.L/MiddleDigit001.L/MiddleDigit002.L/MiddleDigit003.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Middle.L/MiddleDigit001.L/MiddleDigit002.L/MiddleDigit003.L/MiddleDigit003.L_end
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Pinky.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Pinky.L/PinkyDigit001.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Pinky.L/PinkyDigit001.L/PinkyDigit002.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Pinky.L/PinkyDigit001.L/PinkyDigit002.L/PinkyDigit003.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Pinky.L/PinkyDigit001.L/PinkyDigit002.L/PinkyDigit003.L/PinkyDigit003.L_end
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Ring.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Ring.L/RingDigit001.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Ring.L/RingDigit001.L/RingDigit002.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Ring.L/RingDigit001.L/RingDigit002.L/RingDigit003.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Ring.L/RingDigit001.L/RingDigit002.L/RingDigit003.L/RingDigit003.L_end
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Thumb.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Thumb.L/ThumbDigit001.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Thumb.L/ThumbDigit001.L/ThumbDigit002.L
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.L/UpperArm.L/LowerArm.L/Wrist.L/C_Thumb.L/ThumbDigit001.L/ThumbDigit002.L/ThumbDigit002.L_end
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Index.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Index.R/IndexDigit001.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Index.R/IndexDigit001.R/IndexDigit002.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Index.R/IndexDigit001.R/IndexDigit002.R/IndexDigit003.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Index.R/IndexDigit001.R/IndexDigit002.R/IndexDigit003.R/IndexDigit003.R_end
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Middle.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Middle.R/MiddleDigit001.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Middle.R/MiddleDigit001.R/MiddleDigit002.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Middle.R/MiddleDigit001.R/MiddleDigit002.R/MiddleDigit003.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Middle.R/MiddleDigit001.R/MiddleDigit002.R/MiddleDigit003.R/MiddleDigit003.R_end
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Pinky.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Pinky.R/PinkyDigit001.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Pinky.R/PinkyDigit001.R/PinkyDigit002.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Pinky.R/PinkyDigit001.R/PinkyDigit002.R/PinkyDigit003.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Pinky.R/PinkyDigit001.R/PinkyDigit002.R/PinkyDigit003.R/PinkyDigit003.R_end
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Ring.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Ring.R/RingDigit001.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Ring.R/RingDigit001.R/RingDigit002.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Ring.R/RingDigit001.R/RingDigit002.R/RingDigit003.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Ring.R/RingDigit001.R/RingDigit002.R/RingDigit003.R/RingDigit003.R_end
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Thumb.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Thumb.R/ThumbDigit001.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Thumb.R/ThumbDigit001.R/ThumbDigit002.R
+        weight: 1
+      - path: Armature/Hip/Back001/Back002/Shoulder.R/UpperArm.R/LowerArm.R/Wrist.R/C_Thumb.R/ThumbDigit001.R/ThumbDigit002.R/ThumbDigit002.R_end
+        weight: 1
+      - path: Armature/Hip/Hip.L
+        weight: 1
+      - path: Armature/Hip/Hip.L/UpperLeg.L
+        weight: 1
+      - path: Armature/Hip/Hip.L/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Hip/Hip.L/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/Hip/Hip.L/UpperLeg.L/LowerLeg.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: Armature/Hip/Hip.R
+        weight: 1
+      - path: Armature/Hip/Hip.R/UpperLeg.R
+        weight: 1
+      - path: Armature/Hip/Hip.R/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Hip/Hip.R/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/Hip/Hip.R/UpperLeg.R/LowerLeg.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: Armature/Socket
+        weight: 1
+      - path: Armature/Socket/Socket_end
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: EyeBrows
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Legs
+        weight: 1
+      - path: Mouth
+        weight: 1
+      - path: Nose
+        weight: 1
+      - path: Pants
+        weight: 1
+      - path: Shirt
+        weight: 1
+      - path: Shoes
+        weight: 1
+      - path: Socks
+        weight: 1
+      - path: TorsoHead
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Armature
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

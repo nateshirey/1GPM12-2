@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ee7213ae01164545bd4c26d032ccbc3, type: 3}
+  m_Name: Level Photos
+  m_EditorClassIdentifier: 
+  textures:
+  - {fileID: 2800000, guid: 13398175dfbec43d1b1f2b337e556981, type: 3}
+  - {fileID: 2800000, guid: c7dd661a6f99e47f69781cb5eb671b75, type: 3}
+  - {fileID: 2800000, guid: 412c98d49beb54970a1ec5274fad6b95, type: 3}
+  - {fileID: 2800000, guid: 851ef147e212f4b56a6ef82587e83be3, type: 3}
+  - {fileID: 2800000, guid: 98402504ccd9e4221bbb1ed18ccb89d4, type: 3}
+  - {fileID: 2800000, guid: 1633f2e0dbb5c4715a220d45e6de4899, type: 3}
+  - {fileID: 2800000, guid: f0c9bcc3575f5431482f6651061ab41f, type: 3}
+  - {fileID: 2800000, guid: 199ab0664581d4a24bed9cd749d91b14, type: 3}
+  - {fileID: 2800000, guid: 058bf1297200e44dea1152e292c85412, type: 3}
+  - {fileID: 2800000, guid: 0a29a25ecca1d4307a56aa8a9b091dce, type: 3}
+  - {fileID: 2800000, guid: 72e05cb128f254badbadcedb38c86135, type: 3}
+  - {fileID: 2800000, guid: fe466673ef0ff4951aeef0643cbb1a0a, type: 3}
+  - {fileID: 2800000, guid: 571d1c6130dcd4789aec290fdeb4cad3, type: 3}
+  - {fileID: 2800000, guid: 4a6a7754d41b5425ca57ef1868624d48, type: 3}
+  - {fileID: 2800000, guid: fb3a6c6e0b6df479c96ad00ebad6bf9e, type: 3}
+  - {fileID: 2800000, guid: 98de0a9af6a184c5e99d395b4ab8c020, type: 3}
